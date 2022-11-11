@@ -1,0 +1,51 @@
+﻿@page "/Aluno"
+
+
+
+<h3>Cadastro de Aluno</h3>
+<div>
+    <label>Digite o Nome do Aluno</label>
+    <input type="text" @bind="nomes" />
+
+</div>
+<button class="btn btn-primary" @onclick="salvar">Cadastrar</button>
+<button class="btn btn-primary" @onclick="limparLista">Limpar</button>
+
+<ol class="nomes">
+    @foreach (string nomes in ListaAlunos)
+    {
+
+        <li>@nomes</li>
+
+    }
+</ol>
+
+<style>
+    .nomes li:nth-child(odd) {
+        background: #00ffff;
+    }
+
+    .nomes li:nth-child(even) {
+        background: #adf;
+    }
+</style>
+
+
+
+
+@code {
+    String nomes;
+    List<string> ListaAlunos = new();
+
+
+    void salvar()
+    {
+        ListaAlunos.Add(nomes);
+        nomes = "";
+    }
+
+    void limparLista()
+    {
+        ListaAlunos.Clear();
+    }
+}

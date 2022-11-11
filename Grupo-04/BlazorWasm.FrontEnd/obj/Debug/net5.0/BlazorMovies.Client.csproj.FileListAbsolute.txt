@@ -1,0 +1,1411 @@
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\BlazorMovies.Client.StaticWebAssets.xml
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\BlazorMovies.Client.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\ref\BlazorMovies.Client.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\BlazorMovies.Client.pdb
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Client.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Client.pdb
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Markdig.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\MathNet.Numerics.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.2.js.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Base.dll.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Markdig.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\MathNet.Numerics.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.2.js
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Base.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Base.pdb
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.csprojAssemblyReference.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.AssemblyInfoInputs.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.AssemblyInfo.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.csproj.CoreCompileInputs.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.RazorComponent.input.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\CadastrarCategoria.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\EditarCategoria.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\FormCategoria.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\IndexCategoria.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\CadastroLivro.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\EditarLivro.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\LivroDetalhe.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\LivroForm.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\PesquisarLivros.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pessoa\CadastroPessoa.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pessoa\EditarPessoa.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pessoa\FormPessoa.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pessoa\IndexPessoa.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Survey.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\CbmMultiSelecTypeahead.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\CbmTypeahead.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\Confirmacao.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\GenericList.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\InputImg.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\InputMarkdown.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\LivroItem.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\LivroListaWithGeneric.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\LivrosLista.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\MultipleSelector.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\PaginaNaoEncontrada.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\RenderMarkdown.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\CbmTextItem.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.RazorComponent.output.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\BlazorMovies.Client.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.TagHelpers.input.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.TagHelpers.output.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.RazorCoreGenerate.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Categoria\CadastrarCategoria.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Categoria\EditarCategoria.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Categoria\FormCategoria.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Categoria\IndexCategoria.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\CadastroLivro.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\EditarLivro.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\LivroDetalhe.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\LivroForm.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\PesquisarLivros.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Pessoa\CadastroPessoa.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Pessoa\EditarPessoa.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Pessoa\FormPessoa.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Pessoa\IndexPessoa.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Survey.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\CbmMultiSelecTypeahead.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\CbmTypeahead.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\Confirmacao.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\GenericList.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\InputImg.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\InputMarkdown.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\LivroItem.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\LivroListaWithGeneric.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\LivrosLista.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\MultipleSelector.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\PaginaNaoEncontrada.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\RenderMarkdown.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\CbmTextItem.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wl+VwJSI.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+hMx+RNm.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\fZoAsFVM.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\J8mnbtOP.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\P7+Ef7B9.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\vPvaInYG.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\0v6IQwdX.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\KXd3+aj2.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\CTGey3kX.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\kqzNxw8k.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\yLy38IJO.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\25Ucapcv.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\bdeVjf4Q.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\KNd+d0f6.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\NICq7Hgo.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\04lsERIh.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\dnJNGhT+.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\OASYBW2j.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\SiVjm+iy.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Yx4NAwv+.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\6+Vpu+lm.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wjn8SPdI.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\TmF+Sbta.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\fdgs5Lvr.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Kh+tAIP9.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Xf+eS1Ge.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wa+rm0Mf.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\XF8m6wbI.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\CWS1hEto.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\aet1XZF9.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\kydZxGCm.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\g3CCivOC.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\FE+buGhq.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\n3dnLCVN.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\68xdCCIo.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\5+fpWyUo.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\d+X0vhH2.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\eLDhGSuI.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\yoRD6+qi.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\V1w6RH9c.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\TmXnCMhc.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\35QovZvI.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\5nV+luaN.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\QbHAfNHn.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\rWj9eueB.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Eq9ZI2ZO.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\AIlPQUi4.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\8dYTfsK6.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\KcsjSWXN.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+75ghNxa.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Mxrbar+n.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\g9Gw+XcB.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\RrkI9suW.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\LlmlFdsd.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\hJ4uGnr3.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\jTAVwCqM.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\hhxizADv.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\jtMpB80h.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\7ilMKWZO.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\k3s2S2HN.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\BgCTsVjF.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\K+oofrQJ.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\PxEIVyu7.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\CqckCOZc.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\O0WD5eUw.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\OSQ5f0iH.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\mUnCsBrO.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Xtb4CEF1.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\dnU9txNs.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\0TFA5+CU.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\yPBwRa1r.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\81YaGjhy.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\rnFmmWe2.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\CvzARNXb.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\mnFOFtgT.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\TOV0PL4A.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\7cD0YBqR.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\4TziTcMp.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\KQtSQNBc.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\xu3w9ish.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\pigW+z90.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\0kp820dp.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\7Fl8jT5H.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Szdz9qmi.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\NL5sqOlW.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\2+++j2R3.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\i0qPkGDh.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\VhX9rEVW.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\kOPfCGWZ.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\pT4azWtQ.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\n7zQQvrj.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\gtlSSz8B.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\oYZfIx8q.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\iFgdX7Wo.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\5jkpvgPH.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\PqvSxIcg.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\fXUQnC5m.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\FfRB+YYS.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wzvrsKYU.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\JR8KK1Pp.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Ei8vQOHn.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\fx+rslBf.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\xMNm33C2.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\5AmJGTyg.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\5oLhS7YX.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\CV5gNK1u.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\DFnHYhn5.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\3qT7BYcx.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\h4lvRxlv.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Y3+OpSLk.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\mmkpjGAI.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\0LLL5fuD.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\jT8qkmlf.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\yahcC70d.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ElfLGCdI.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\C63oUzOw.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Jy+83wjk.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\M+btm8Ta.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Myy8XSgJ.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ht6K+HXi.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+LdlSJS7.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\BAmew6DR.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\rBJUc7Cf.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+bH1EMKy.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\hm0cUDdc.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\rQOEcBIP.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\1JkibQN9.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\9tkE9F6I.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\34pmY1e5.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+3UCkhV4.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\2Tb6s4Ig.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\1aSeMByv.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\9xqV6LG+.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\8ESfGh3n.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ssjyw1Yd.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\9JcFJxvU.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Vigibd3B.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\6jQM1+e6.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\lNRNBoYd.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\bcBnafLO.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Z70FP3+s.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ybaorDVE.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Yuzdgom+.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\g+Nw4t5J.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\RCenpbA9.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\96QMtJrM.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\86bWZYcs.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\z4eTv2iy.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\c3DKdbuc.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\7+9fppxj.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Rz3qRb7s.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\gTVV5M9b.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Y2n2jgWS.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\YMTCuF1s.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\bTkHUFsI.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\NXCzoX+S.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\4TBw6s1N.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Ni4aYqpl.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\9O+NiGpq.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\XlQqL4i1.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ZlPrVocS.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\q+t9Nibq.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\v67hwE36.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\R6B840X7.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\o08NU0t8.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Bw1sh7tZ.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\uGQ+iZfX.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Oji+alII.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ceGvD806.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\hHGMNX87.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\5X4FJx+t.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\MXVhqNRX.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\zY+xnkQN.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\QSJhZbPC.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\w+IfrAmQ.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ICyIPmBX.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\1D6beQVJ.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\9H9jqxAE.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\FakPtdhn.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\uiy9vn2Z.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\qa2sT09F.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\FMxx1a5V.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\bvnNjIXU.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\xUErW2AK.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\szhNP6JC.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\++27Pghs.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\1DZohB50.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\s9skd+lH.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\jgYjftoA.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\uvuGY9+o.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\4Z4hv47v.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\dk4qsY2c.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\EIvCrbQD.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\UtOcnBtx.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\DgmuX57H.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\H+LYJ9rD.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\a9qXNYHu.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\cCUchF+a.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\tUoxLHtk.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\build-gz\EG+llHPK.gz
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\staticwebassets\BlazorMovies.Client.StaticWebAssets.Manifest.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\staticwebassets\BlazorMovies.Client.StaticWebAssets.xml
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\Pages\Counter.razor.rz.scp.css
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\Shared\CbmTextItem.razor.rz.scp.css
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\bundle\BlazorMovies.Client.styles.css
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\projectbundle\BlazorMovies.Client.bundle.scp.css
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.RazorTargetAssemblyInfo.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.csproj.CopyComplete
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\ref\BlazorMovies.Client.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.pdb
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\BlazorMovies.Client.StaticWebAssets.xml
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\BlazorMovies.Client.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\ref\BlazorMovies.Client.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\BlazorMovies.Client.pdb
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Client.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Client.pdb
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Markdig.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\MathNet.Numerics.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.5.js.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Base.dll.gz
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Markdig.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\MathNet.Numerics.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.5.js
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Base.dll
+C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorMovies.Base.pdb
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.csprojAssemblyReference.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.AssemblyInfoInputs.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.AssemblyInfo.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.csproj.CoreCompileInputs.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.RazorComponent.input.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\CadastrarCategoria.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\EditarCategoria.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\FormCategoria.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\IndexCategoria.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\CadastroLivro.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\EditarLivro.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\LivroDetalhe.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\LivroForm.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Livros\PesquisarLivros.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pessoa\CadastroPessoa.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pessoa\EditarPessoa.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pessoa\FormPessoa.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pessoa\IndexPessoa.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Survey.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\CbmMultiSelecTypeahead.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\CbmTypeahead.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\Confirmacao.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\GenericList.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\InputImg.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\InputMarkdown.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\LivroItem.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\LivroListaWithGeneric.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\LivrosLista.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\MultipleSelector.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\PaginaNaoEncontrada.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\RenderMarkdown.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\CbmTextItem.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.RazorComponent.output.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\RazorDeclaration\BlazorMovies.Client.dll
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.TagHelpers.input.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.TagHelpers.output.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.RazorCoreGenerate.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Categoria\CadastrarCategoria.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Categoria\EditarCategoria.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Categoria\FormCategoria.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Categoria\IndexCategoria.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\CadastroLivro.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\EditarLivro.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\LivroDetalhe.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\LivroForm.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Livros\PesquisarLivros.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Pessoa\CadastroPessoa.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Pessoa\EditarPessoa.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Pessoa\FormPessoa.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Pessoa\IndexPessoa.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Survey.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\CbmMultiSelecTypeahead.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\CbmTypeahead.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\Confirmacao.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\GenericList.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\InputImg.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\InputMarkdown.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\LivroItem.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\LivroListaWithGeneric.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\LivrosLista.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\MultipleSelector.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\PaginaNaoEncontrada.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\RenderMarkdown.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\CbmTextItem.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wl+VwJSI.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+hMx+RNm.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\fZoAsFVM.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\J8mnbtOP.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\P7+Ef7B9.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\vPvaInYG.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\0v6IQwdX.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\KXd3+aj2.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\CTGey3kX.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\kqzNxw8k.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\yLy38IJO.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\25Ucapcv.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\bdeVjf4Q.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\KNd+d0f6.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\NICq7Hgo.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\04lsERIh.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\dnJNGhT+.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\OASYBW2j.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\SiVjm+iy.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Yx4NAwv+.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\6+Vpu+lm.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wjn8SPdI.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\TmF+Sbta.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\fdgs5Lvr.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\mFB3FGXl.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Kh+tAIP9.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Xf+eS1Ge.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wa+rm0Mf.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\kY+Ig8+Q.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\cDZky0R2.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\K6GjY6sb.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\JM1SQO6h.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\P2mAFJAY.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\nRRrpDhQ.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ELcLgvVj.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\w0wCwQB2.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\HuDm3+Ps.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\kHPgwQGh.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\c1ASyd+k.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\fZvFxmdI.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\PN1YciAl.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+J87k8mo.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\SmcI+nz9.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\92JyKPa5.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Pvu56W+0.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\f1MJyIE4.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wm6m5sz8.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\8+8TKAXn.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Vb1+cGVY.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\hsmuDHRa.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\G2ZQkkDX.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\nwPKVUyu.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\U+1digK0.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\bJtnFCEo.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\BxsaCri8.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ZsvUbvkL.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\pa+FAZOV.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\u+r1pI+u.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\dtkT9wG0.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wzDNoKOo.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+fQGt5aN.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+n77kAr6.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\zLGpEzZa.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\dHscOKCb.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\rRIhqz1Q.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\gZ8NSgIw.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\sWrAIG3z.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\zNj6lgua.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\fpLkfP5P.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\FaLWHLke.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\tSdD3MDJ.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\varyu+k0.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\7WsV2qg9.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\6Uq0N6YT.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\HWq384n2.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Yc9sfwEx.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\3GqyprXz.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\kE5yWrr3.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\3QjWReD0.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\MNGlK23f.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wZQizPKj.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\itudBCt2.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\836rvPpT.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\SjPHDKf1.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\AP++w3mQ.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\42y8vpyA.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\QlBGSZ+1.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\0tDUeacx.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\5rH1OGWm.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\vOcIpAvx.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\BfVec5yn.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\FypVsSRl.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\aMsM9Vxn.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\5kQThISH.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\dD6P0hqO.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\8s3OGHZo.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\2mKI+ghF.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\6XW9p9q3.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\qvu9GvWs.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\p6cMEIxm.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\95Fea5mR.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\5lU7eygb.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\cQEqht+t.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\V+61+ZOy.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\DIVZ5A0r.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\2pDnEtWc.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\eGSP8Hc9.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\4Auf5YBb.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Mv4AKPCo.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\8UZI0nUN.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\hKWy+Y4L.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wCz+uBgn.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wPGAQtVo.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\LKJQlRi8.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\yZ2pZ4UT.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+8ytJONN.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\BohzcVrQ.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\YqJ9joeM.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\6g6KUJhN.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\2FpEE7E3.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Q1DlHK+g.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Z0dhhDev.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\XBCId0bB.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\FiUI0A1U.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\jOdwLRMq.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\nFsn3ZuI.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\PD7aHkpK.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\M5kGThQ0.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\l23UGNeU.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wyJh1cHn.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\V8KKKqto.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\E14KdASr.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\eXFTmbes.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ZQc8yGc5.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\HQHYCsJx.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\X444D+PW.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\O47WvEwN.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\WZr8g+Tt.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+4GRmIn3.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\msCeVFqe.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\bhAcusSp.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\SM1SyEJX.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\UP+g7x5j.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\TtT2NsVg.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ngMpQRl5.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Xv5rxHMc.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\AjqIZwJ1.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\pZBAEIMX.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\cX3+m5+b.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+ER42EgV.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\rvqmUQpO.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+4y4A40L.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\IzGsWXxG.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\MnlgQ5+s.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\rpdmT5Zm.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\4AQzEJ4+.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\24idUS5Z.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\aDcrPUvv.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\AzuZt4n1.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\2nGlUtj5.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\DbnQk602.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\OOaFEAQF.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Og20SSaa.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\S++f+p4W.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\RGjDEst5.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\zGEMHAJ6.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\+ztxcfFA.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\HgMkpJEf.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\4MGvjtOX.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Tp2PsaYl.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Cr80nffx.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\sR2c+Z7i.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\4hlqAde3.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\Wd5gCQ62.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\umQnce0S.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\gq+m5D+2.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\3svQgUle.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\A5t8NB03.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\wiI+kzix.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\KCzGn1g9.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\i7sbDBov.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\6f1pISt2.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ehi5gnvs.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\c7L14zsa.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\FXpiihMM.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\VsaboKl1.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\orzRQooK.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\IfU91nwG.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\qFLI1aNt.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\l+SKTW++.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\0zCk76tF.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\54wyqzpT.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\plN+TmPl.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\PBY5AfAR.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\FI83Z414.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\7ZEE6+76.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\aGmnuEQk.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\JtiC2Wv8.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\eq2n2kI2.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\vW0+z2F7.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\build-gz\ycH8jada.gz
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\staticwebassets\BlazorMovies.Client.StaticWebAssets.Manifest.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\staticwebassets\BlazorMovies.Client.StaticWebAssets.xml
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\Pages\Counter.razor.rz.scp.css
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\Shared\CbmTextItem.razor.rz.scp.css
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\bundle\BlazorMovies.Client.styles.css
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\projectbundle\BlazorMovies.Client.bundle.scp.css
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.RazorTargetAssemblyInfo.cache
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.csproj.CopyComplete
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.dll
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\ref\BlazorMovies.Client.dll
+C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\BlazorMovies.Client.pdb

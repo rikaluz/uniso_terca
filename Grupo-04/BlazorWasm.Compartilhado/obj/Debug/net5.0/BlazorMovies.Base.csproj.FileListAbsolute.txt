@@ -1,0 +1,23 @@
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\bin\Debug\net5.0\BlazorMovies.Base.deps.json
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\bin\Debug\net5.0\BlazorMovies.Base.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\bin\Debug\net5.0\ref\BlazorMovies.Base.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\bin\Debug\net5.0\BlazorMovies.Base.pdb
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.csprojAssemblyReference.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.AssemblyInfoInputs.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.AssemblyInfo.cs
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.csproj.CoreCompileInputs.cache
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\obj\Debug\net5.0\ref\BlazorMovies.Base.dll
+D:\Unip - Aulas\workspace\web\Blazor\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.pdb
+C:\Workspace\Csharp\BlazorMovies.Shared\bin\Debug\net5.0\BlazorMovies.Base.deps.json
+C:\Workspace\Csharp\BlazorMovies.Shared\bin\Debug\net5.0\BlazorMovies.Base.dll
+C:\Workspace\Csharp\BlazorMovies.Shared\bin\Debug\net5.0\ref\BlazorMovies.Base.dll
+C:\Workspace\Csharp\BlazorMovies.Shared\bin\Debug\net5.0\BlazorMovies.Base.pdb
+C:\Workspace\Csharp\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Csharp\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.AssemblyInfoInputs.cache
+C:\Workspace\Csharp\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.AssemblyInfo.cs
+C:\Workspace\Csharp\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.csproj.CoreCompileInputs.cache
+C:\Workspace\Csharp\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.dll
+C:\Workspace\Csharp\BlazorMovies.Shared\obj\Debug\net5.0\ref\BlazorMovies.Base.dll
+C:\Workspace\Csharp\BlazorMovies.Shared\obj\Debug\net5.0\BlazorMovies.Base.pdb

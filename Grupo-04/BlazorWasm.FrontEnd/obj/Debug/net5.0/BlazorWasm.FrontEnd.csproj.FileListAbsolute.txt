@@ -1,0 +1,1352 @@
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\BlazorWasm.FrontEnd.StaticWebAssets.xml
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\BlazorWasm.FrontEnd.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\BlazorWasm.FrontEnd.pdb
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.FrontEnd.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.FrontEnd.pdb
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Bogus.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Markdig.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\MathNet.Numerics.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.16.js.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.Compartilhado.dll.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Bogus.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Markdig.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\MathNet.Numerics.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.16.js
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.Compartilhado.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.Compartilhado.pdb
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.csproj.AssemblyReference.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.AssemblyInfoInputs.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.AssemblyInfo.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.csproj.CoreCompileInputs.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.RazorComponent.input.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\CadastrarCategoria.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\EditarCategoria.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\FormCategoria.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\IndexCategoria.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Produto\CadastrarProduto.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Produto\EditarProduto.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Produto\FormProduto.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Produto\IndexProduto.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\Confirmacao.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\InputImg.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\PaginaNaoEncontrada.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.RazorComponent.output.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\BlazorWasm.FrontEnd.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.TagHelpers.input.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.TagHelpers.output.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.RazorCoreGenerate.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Categoria\CadastrarCategoria.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Categoria\EditarCategoria.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Categoria\FormCategoria.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Categoria\IndexCategoria.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Produto\CadastrarProduto.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Produto\EditarProduto.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Produto\FormProduto.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Produto\IndexProduto.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\Confirmacao.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\InputImg.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\PaginaNaoEncontrada.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\TTuzfmZw.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\wl+VwJSI.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+hMx+RNm.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\fZoAsFVM.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\J8mnbtOP.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\P7+Ef7B9.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\vPvaInYG.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\0v6IQwdX.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KXd3+aj2.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\CTGey3kX.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\kqzNxw8k.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\yLy38IJO.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\25Ucapcv.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\bdeVjf4Q.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KNd+d0f6.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\NICq7Hgo.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\04lsERIh.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\dnJNGhT+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\OASYBW2j.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\SiVjm+iy.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Yx4NAwv+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\6+Vpu+lm.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\wjn8SPdI.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\TmF+Sbta.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\fdgs5Lvr.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\mFB3FGXl.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Xf+eS1Ge.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\gBFEzGA9.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\RJSczxQP.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\tgvhFp9Z.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\r+RPKfw7.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\6F+Z0yn5.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\6b+dMeM+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XMJnA07f.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\SsGf4uiK.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Byx+0yPo.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\IGJqseVy.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\EMfKP7oU.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\K4roh4D9.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\sP7KFU0G.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\L4z1G0lV.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\DzxTWwvF.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+c5ZgSsS.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\QVGXec5+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\WIFdQlG5.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+7ROhiAU.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+Zhz9Z7r.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+fc6t8pn.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\FUKKpWhg.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\7rwPZIXk.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\YWULi2b+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\HlAoaYGF.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+O5WIKoy.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\1SFGe9Uq.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\nqMHgoM7.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\2gQzns5y.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\UxuXjdYz.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\NadKefuI.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\qyd0vL0A.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\4AKgj+6Z.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KRhYDzGT.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\pT5qVe+N.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\k0bJKtGv.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XhXR+5+D.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\YSO1Yl+9.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\FadOrd8E.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\jNv3TiKU.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\HXs3bZFS.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\UY10UHz+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\OBWedP8K.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\bUVYEHlS.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\xHT6Cvg+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\jzIaACtG.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\wdOBRIzv.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\U9uMTATK.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\0jYfvow6.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XVX29pm4.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\qhrvpBTx.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Q7vsOtAq.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\CFKzMST8.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\w6ruu92O.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\nWS1t56d.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\pXskG+e+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\vFUuHca5.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\DloOJofu.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\V+5ZI3yy.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Ihly+1Pq.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\zC3hP70v.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\PcUxRBoD.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\VQuxLMc+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\e3hQ2WFb.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\xZlMkJF6.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\9Wx0kUJ+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\UoHxpkty.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\D30nM9i5.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KxM6Y8UE.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\9XDHTuc1.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\tbvud5oT.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\B2ezDJdL.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\LBeJivbQ.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\y2j5xP49.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\CwQ+SvI3.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\FP+UdAsr.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\LWq6WSIb.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\jsrhHy1H.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\OlO0+aN2.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\7Ody5gs6.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\R7WN+7W8.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\xVH229+r.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\kVmd1NAl.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\OXVxGO+s.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\giHIPdk5.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\uIhtpF35.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\2lILTqEq.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\mxYKZl7y.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\4QInXhsl.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\TsS1zwkJ.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\z8y03f9G.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\YN5d+sNc.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\DtTyGkYg.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Uecq7I2C.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\JFt2oBV0.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XpzBt+m6.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\FYYol+wr.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XVILSh1K.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\pIMLd6ua.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\JivjydOb.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ii70dNWs.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\bI0+QAso.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\hzg5FP+t.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Un29tJPN.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\8Wd3RGnL.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\5QWUjU5f.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\1macBiMJ.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\vNLuD7r2.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\QRbMSp+4.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\fpUKWxOE.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KvxX0tp6.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\dts0+v+l.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KPeeDr5C.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+i+Xse+5.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\r1FVKB7d.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\hYhTXet5.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\lbi+Ls6L.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\WHe5jZVi.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\MLt9zc3r.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ngP+GmBD.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\nvUpd2ER.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\X5SLxx8f.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\nb2DcA6Z.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Dv4ZyoyF.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\alqh29mg.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\iyK3oOq8.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ZrD9MskY.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\emqCn+LZ.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\DdR7DV0E.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\SBRAjUxt.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\k7w+hEWq.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\7kdFE3HH.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Pp5z5ZeD.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\sYFMpG0u.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\V8bawnzQ.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Z6Fl0AE2.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\hzACNHJu.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\9468NNrz.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\jge2DXMy.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\hXDC0TFS.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Kx3+uNtT.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\bLhJZm6+.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Kl14CV4b.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\yT7+AP38.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\5UeV1W9W.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\u3sGhgSD.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XBhqoIRh.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\cMQsmc+1.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\S7U+s0jC.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\fIZI2+SP.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\nh1lxIql.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\R2FcyYUT.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\DfcXSjdh.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ExoaTtRd.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\OVwKMSwt.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\W2pFEYAq.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\fOK0QeLY.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\bLZavfeY.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\OYGaOfGm.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Bndo+ZIC.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\x8QNUZFe.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\kedkCg25.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KVrK4Xg6.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\hbROp66U.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\mx6vG+YY.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+ZDer+Ec.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\QvL7HZYv.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\9K4zQIFh.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\pCMfnRU7.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ahWX3Z6L.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\2MUsrpjO.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\7SW387Zu.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\2DsH8Yla.gz
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\Pages\Counter.razor.rz.scp.css
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\bundle\BlazorWasm.FrontEnd.styles.css
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\projectbundle\BlazorWasm.FrontEnd.bundle.scp.css
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\staticwebassets\BlazorWasm.FrontEnd.StaticWebAssets.Manifest.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\staticwebassets\BlazorWasm.FrontEnd.StaticWebAssets.xml
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.csproj.CopyComplete
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\refint\BlazorWasm.FrontEnd.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.pdb
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\obj\Debug\net5.0\ref\BlazorWasm.FrontEnd.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\BlazorWasm.FrontEnd.StaticWebAssets.xml
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\BlazorWasm.FrontEnd.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\ref\BlazorWasm.FrontEnd.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\BlazorWasm.FrontEnd.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.FrontEnd.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.FrontEnd.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Bogus.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Markdig.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\MathNet.Numerics.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.Compartilhado.dll.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Bogus.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Markdig.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\MathNet.Numerics.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.Compartilhado.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\_framework\BlazorWasm.Compartilhado.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.RazorComponent.input.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Cadastros\Aluno.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Cadastros\CadastrarPessoas.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Cadastros\CPessoas.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Cadastros\EditarPessoas.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Cadastros\FormPessoas.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\CadastrarCategoria.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\EditarCategoria.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\FormCategoria.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\IndexCategoria.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Produto\CadastrarProduto.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Produto\EditarProduto.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Produto\FormProduto.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Produto\IndexProduto.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Times.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\TrabalhotutorialBlazor\TabControl.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\TrabalhotutorialBlazor\TabPage.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\TrabalhotutorialBlazor\Tutorial.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\Confirmacao.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\InputImg.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\PaginaNaoEncontrada.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.RazorComponent.output.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\RazorDeclaration\BlazorWasm.FrontEnd.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.TagHelpers.input.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.TagHelpers.output.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.RazorCoreGenerate.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Cadastros\Aluno.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Cadastros\CadastrarPessoas.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Cadastros\CPessoas.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Cadastros\EditarPessoas.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Cadastros\FormPessoas.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Categoria\CadastrarCategoria.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Categoria\EditarCategoria.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Categoria\FormCategoria.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Categoria\IndexCategoria.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Produto\CadastrarProduto.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Produto\EditarProduto.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Produto\FormProduto.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Produto\IndexProduto.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Times.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\TrabalhotutorialBlazor\TabControl.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\TrabalhotutorialBlazor\TabPage.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\TrabalhotutorialBlazor\Tutorial.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\Confirmacao.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\InputImg.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\PaginaNaoEncontrada.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\N65zGatP.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\GO1Hqhzb.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\7ljN4Q8y.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Y5Hscw4e.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\qnwrtKYI.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\DVOhN4jX.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\APv1UemI.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\JX8Av74N.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+lP0dDfy.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Zs6TapM6.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\DGYloGjQ.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+Upgu9Us.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Vu58MIG2.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\OYdtHU8i.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\bm++Qn3R.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\U7gGWvYP.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\8SZC8uZM.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ICIznqTj.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Xr+6f4Zw.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\x5Gn0vGR.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\io33YpUR.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\SUKUC6FF.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\xBbYhTfj.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\xts2AfgE.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+LfxN7PY.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ZXD5TrJK.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\H3y9wnoV.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\CU5hwHVg.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\BRW8HYiR.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\PsiqKIpQ.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\JexfaZ0e.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\xQ38I3Yx.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\wkNS+x7n.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+Y3mU5Bq.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ZSzpRwN2.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\FjZnpZ1w.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+w1Tu3HI.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Vc1dreQ1.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\8hgLnMVU.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\rzhw+S1b.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\K1fcmWq+.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\efgdfkhL.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\cdbviTFD.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\d94hKKXJ.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XeGsCl46.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\eE9tX0iM.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\3DrRUTGE.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\I26py54i.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\OD4bsDXn.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+otmq3Vt.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\cf83ErjE.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\jvyDJuux.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\BUs37UfF.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\vfjdkVJk.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\2ayUYth6.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\nLg8mpPD.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\TgUWnLFW.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\dLFOfpWL.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\H6A6URAN.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\NYiAbzRG.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\lCV5Eoe8.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\MK+gi+sz.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Qvzo4PT3.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Xzec0RFt.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\zvJkBp3C.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\9G4XBwCc.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\895CNYwV.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\FNkSJOmW.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+F5IsywW.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\4L+COFj5.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\fmJy9GdQ.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XqagAaKJ.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\poMBDxz7.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\L3BmLZQz.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\bMZabT0U.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\+9veDGdc.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\dUpZLXbX.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Gwq7e7l+.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\D5HDEkWk.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Xd1FSfCp.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\lnuQk8PD.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\OtgAhmjo.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\kKA+a42p.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\QLwyK4Or.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\hkmMck0n.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\t3P8foZC.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\etNb68eH.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\xcs7XwbG.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\VxEdhn+l.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\UoV4xJNW.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\GxZy1Bs+.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\fqXllanX.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\cLZ6uQkq.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\BEv6sG7n.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\vmBdlnVe.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\B16KLJLp.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ctkrUWWd.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\LSLiR+7+.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\IccPJd+w.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\pipDiUJe.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Z4d5uras.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\PL6Ijj6I.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\t9UXxje+.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Y+sJfNoq.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\feyPhUTU.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\5oW8V9PD.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\CTitbZPJ.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\WMEBe++Y.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Iv12CKu0.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ymro2NLF.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\vK0c3uQ3.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\e1cTvC+a.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\6W97d9rt.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\g+kt2+PC.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\HPcqAlMf.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\WsKSNfWG.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Z6+N0a7D.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Ed2+HYpp.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\DSsHz1v7.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\LI8tWyAY.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\iGCIx+rU.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\phQltK85.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\a8++bJZz.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KZ3AmZc7.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\rP3A6hl5.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Zj4t0WKI.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\0VwVUEqj.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KWtIsHHB.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\99mnP33E.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\CLOK7ZMb.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\dSvBHkwY.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\U+mU2g3D.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Ht2BegKO.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\RGWmRuZO.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\3Niyrfht.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\3vTtYeW5.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\8sFKrxCI.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\1O93uwhd.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\h5IbYbUz.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\1sSeRvcM.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\owohu8kM.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\eqOSlav7.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\r66jVYnF.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\w0XcTBb0.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\A4Uabl8a.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\IdxSjlo2.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XDqYkqIp.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\WKM4KNUr.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Vw+1QoLm.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\c2YwUkNg.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\7RvOLlc7.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\H7WJ53pi.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\jNKrHs5z.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\e8VFBgHj.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\xVYHZn9C.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Gxpzv2GF.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\vXX4Rvue.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\h64yI+TX.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KReuGyT6.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\WtE0Kjlv.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\g8K35rjn.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\MU+l5m6e.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\pghdA5YI.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\8ZhK2Aa1.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\SLV+V9vj.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\jfYFf85o.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\E5IBIE5l.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\LhrjMJCT.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Ex99Zw8X.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\KWYHOzqo.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\tseZ5Pev.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\muoDDfrK.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\fQTKJmRm.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\cbK9qw3P.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\q2maC0nB.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\FEo5n8Ax.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\wOG+2wR1.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Wioh5Ijv.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\AxPbvVO5.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\L0Fg3qoP.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\NrnclIG5.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\XJup9h8Z.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\1W5FkeaG.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\6iPVvZZc.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\gqp40w+I.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\r4i1yhTP.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\mCfsXeR0.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\slKT3lJW.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\RWKb5ie7.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ZOZXz5gF.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\5ZvFCCdU.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\vUZ9UcYA.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\ZILgjL4Y.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\Tt5j+T5X.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\7SzhPta2.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\GR2ju+2a.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\QyD9BERK.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\U0dcy5VC.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\CUJDRR+P.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\build-gz\mq2VD1He.gz
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\staticwebassets\BlazorWasm.FrontEnd.StaticWebAssets.Manifest.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\staticwebassets\BlazorWasm.FrontEnd.StaticWebAssets.xml
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\Pages\Counter.razor.rz.scp.css
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\bundle\BlazorWasm.FrontEnd.styles.css
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\projectbundle\BlazorWasm.FrontEnd.bundle.scp.css
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.csproj.CopyComplete
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\ref\BlazorWasm.FrontEnd.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\BlazorWasm.FrontEnd.pdb

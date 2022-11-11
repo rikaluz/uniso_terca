@@ -1,0 +1,40 @@
+﻿
+<h3>Formulario</h3>
+
+
+
+<EditForm Model="Pessoa" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label>Nome:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Pessoa.Nome" />
+            <ValidationMessage For="(() =>Pessoa.Nome)" />
+        </div>
+        <label>Idade:</label>
+        <div>
+            <InputNumber class="form-control" @bind-Value="@Pessoa.Idade" />
+            <ValidationMessage For="(() =>Pessoa.Idade)" />
+        </div>
+        <label>Sexo:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Pessoa.Sexo" />
+            <ValidationMessage For="(() =>Pessoa.Sexo)" />
+        </div>
+        <label>Data de Nacimento:</label>
+        <div>
+            <InputDate class="form-control" @bind-Value="@Pessoa.DataNascimento" />
+            <ValidationMessage For="(() =>Pessoa.DataNascimento)" />
+        </div>
+
+
+        <button class="btn btn-success" type="submit">Salvar</button>
+    </div>
+</EditForm>
+
+
+@code {
+    [Parameter] public Pessoa Pessoa { get; set; }
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+
+}
