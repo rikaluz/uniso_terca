@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = BlazorWasm.FrontEnd
+build_property.RootNamespace = BlazorWasm.FrontEnd
+build_property.ProjectDir = C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.FrontEnd
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Categoria/CadastrarCategoria.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXENhZGFzdHJhckNhdGVnb3JpYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Categoria/EditarCategoria.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXEVkaXRhckNhdGVnb3JpYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Categoria/FormCategoria.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXEZvcm1DYXRlZ29yaWEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Categoria/IndexCategoria.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXEluZGV4Q2F0ZWdvcmlhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Produto/CadastrarProduto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1xDYWRhc3RyYXJQcm9kdXRvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Produto/EditarProduto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1xFZGl0YXJQcm9kdXRvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Produto/FormProduto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1xGb3JtUHJvZHV0by5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Produto/IndexProduto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1xJbmRleFByb2R1dG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Shared/Confirmacao.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpcm1hY2FvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Shared/InputImg.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0SW1nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Shared/PaginaNaoEncontrada.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhZ2luYU5hb0VuY29udHJhZGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-w6rd1wxw86
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8cyihw7msy
+
+[C:/Workspace/Csharp/Ensino/WasmSample/BlazorWasm.FrontEnd/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-otvqe4prdh

@@ -1,0 +1,47 @@
+﻿
+@page "/CPessoas/editar/{PessoaId:int}"
+@inject IRepository<Pessoa> repository
+@inject NavigationManager navigationManager
+
+
+
+
+    <h3>Editar Categoria</h3>
+
+
+
+    @if (pessoa is not null)
+    {
+        <FormPessoas Pessoa="pessoa" OnValidSubmit="Edit" />
+    }
+
+
+    @code {
+        [Parameter] public int PessoaId { get; set; }
+        private Pessoa pessoa;
+
+
+
+        protected override async Task OnInitializedAsync()
+        {
+            try
+            {
+                pessoa = await repository.Get(PessoaId);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Erro X: " + ex.Message);
+            }
+        }
+
+
+
+        private async Task Edit()
+        {
+            await repository.Update(pessoa);
+            navigationManager.NavigateTo("CPessoa");
+        }
+
+
+
+    }

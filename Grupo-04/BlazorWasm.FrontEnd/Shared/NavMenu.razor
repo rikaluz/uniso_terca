@@ -1,0 +1,59 @@
+﻿<div class="top-row pl-4 navbar navbar-dark">
+    <a class="navbar-brand" href="">BlazorMovies</a>
+    <button class="navbar-toggler" @onclick="ToggleNavMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+
+<div @onclick="ToggleNavMenu">
+    <ul class="nav flex-column">
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="categoria">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Categorias
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="produto">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Produtos
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Aluno">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Cadastro de Alunos
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="counter">
+                <span class="oi oi-plus" aria-hidden="true"></span> Counter
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Times">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Tabela de Times
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="CPessoas">
+                <span class="oi oi-plus" aria-hidden="true"></span> cadastro aluno
+            </NavLink>
+        </li>
+
+
+    </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

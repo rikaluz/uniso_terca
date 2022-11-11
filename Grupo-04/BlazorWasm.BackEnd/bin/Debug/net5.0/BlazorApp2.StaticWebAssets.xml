@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="SecondApp" Path="C:\Workspace\Csharp\BlazorMovies\BlazorApp2\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="SecondApp" Path="C:\Workspace\Csharp\BlazorMovies\BlazorApp2\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>

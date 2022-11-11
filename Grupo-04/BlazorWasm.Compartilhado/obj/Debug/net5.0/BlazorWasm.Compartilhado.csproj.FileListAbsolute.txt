@@ -1,0 +1,23 @@
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\bin\Debug\net5.0\BlazorWasm.Compartilhado.deps.json
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\bin\Debug\net5.0\BlazorWasm.Compartilhado.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\bin\Debug\net5.0\BlazorWasm.Compartilhado.pdb
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.csproj.AssemblyReference.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.AssemblyInfoInputs.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.AssemblyInfo.cs
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.csproj.CoreCompileInputs.cache
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\obj\Debug\net5.0\refint\BlazorWasm.Compartilhado.dll
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.pdb
+C:\Workspace\Csharp\Ensino\WasmSample\BlazorWasm.Compartilhado\obj\Debug\net5.0\ref\BlazorWasm.Compartilhado.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\bin\Debug\net5.0\BlazorWasm.Compartilhado.deps.json
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\bin\Debug\net5.0\BlazorWasm.Compartilhado.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\bin\Debug\net5.0\ref\BlazorWasm.Compartilhado.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\bin\Debug\net5.0\BlazorWasm.Compartilhado.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\obj\Debug\net5.0\ref\BlazorWasm.Compartilhado.dll
+C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\obj\Debug\net5.0\BlazorWasm.Compartilhado.pdb

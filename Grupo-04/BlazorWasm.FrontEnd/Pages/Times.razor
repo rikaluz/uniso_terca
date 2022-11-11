@@ -1,0 +1,199 @@
+﻿@page "/Times"
+@if (DicionarioEstados is not null)
+{
+<h1>Classificação por Estados</h1>
+
+
+                <ul>
+                    @foreach (var Estados in DicionarioEstados)
+                    {
+    <li class="cidades">
+
+        <h3>@Estados.Key | Pontuação </h3>
+
+
+        <ol class="times">
+
+            @foreach (var time in Estados.Value)
+            {
+<li>Times: @time.Nome | @time.Pontos</li>
+}
+
+
+        </ol>
+
+
+    </li>
+}
+                </ul>}
+
+
+
+<h1>Tabela de classifição</h1>
+
+
+<table class="styled-table">
+    <thead>
+        <tr class="cabecario">
+            <th>ESTADO</th>
+            <th>TIME</th>
+            <th>PONTUACAO</th>
+            <th>GOLS</th>
+        </tr>
+    </thead>
+    <tbody>
+
+
+        @foreach (var Time in ListaTimes.OrderByDescending(o => o.Pontos).ThenByDescending(o => o.SaldoDeGols))
+        {
+<tr class="active-row">
+    <td>@Time.Estado</td>
+
+    <td>@Time.Nome</td>
+
+    <td>@Time.Pontos</td>
+
+    <td>@Time.SaldoDeGols</td>
+</tr>
+}
+    </tbody>
+</table>
+
+
+
+
+
+
+
+@code { List<Time> ListaTimes = new List<Time>();
+    Dictionary<string, List<Time>> DicionarioEstados = new Dictionary<string, List<Time>>();
+
+
+
+    protected override void OnInitialized()
+    {
+        Time ta = new Time();
+        ta.Nome = "Inter";
+        ta.Estado = "RS";
+        ta.Pontos = 10;
+        ta.SaldoDeGols = 2;
+        ListaTimes.Add(ta);
+
+        Time cor = new Time();
+        cor.Nome = "Corinthias";
+        cor.Estado = "SP";
+        cor.Pontos = 25;
+        cor.SaldoDeGols = 10;
+        ListaTimes.Add(cor);
+
+        Time sp = new Time();
+        sp.Nome = "São Paulo";
+        sp.Estado = "SP";
+        sp.Pontos = 6;
+        sp.SaldoDeGols = 2;
+        ListaTimes.Add(sp);
+
+        Time fla = new Time();
+        fla.Nome = "Flamengo";
+        fla.Estado = "RJ";
+        fla.Pontos = 10;
+        fla.SaldoDeGols = 4;
+        ListaTimes.Add(fla);
+
+        Time pal = new Time();
+        pal.Nome = "Palmeiras";
+        pal.Estado = "SP";
+        pal.Pontos = 9;
+        pal.SaldoDeGols = 5;
+        ListaTimes.Add(pal);
+
+        foreach (var Time in ListaTimes)
+        {
+            var estados = Time.Estado;
+            if (!DicionarioEstados.ContainsKey(estados))
+            {
+                List<Time> listaDoEstado = new List<Time>();
+                listaDoEstado = ListaTimes.Where(o => o.Estado == estados).ToList();
+                DicionarioEstados.Add(estados, listaDoEstado);
+            }
+        }
+
+
+
+    } }
+
+<style>
+    .styled-table {
+        border-collapse: collapse;
+        margin: auto;
+        font-size: 0.9em;
+        font-family: sans-serif;
+        min-width: 400px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        position: center;
+    }
+
+        .styled-table thead tr {
+            background-color: #dcdcdc;
+            color: #000;
+            text-align: center;
+        }
+
+        .styled-table th,
+        .styled-table td {
+            padding: 12px 15px;
+        }
+
+        .styled-table tbody tr {
+            border-bottom: 1px solid #dddddd;
+        }
+
+            .styled-table tbody tr:nth-of-type(even) {
+                background-color: #f3f3f3;
+            }
+
+            .styled-table tbody tr:last-of-type {
+                border-bottom: 2px solid #000;
+            }
+
+            .styled-table tbody tr.active-row {
+                font-weight: bold;
+                color: #000;
+            }
+
+    h1 {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    ul {
+        display: flex;
+        justify-items: center;
+        width: 100%;
+    }
+
+    .cidades {
+        font-weight: bold;
+        width: 100%;
+    }
+
+    .time {
+        justify-content: center;
+        margin-block-start: 0px;
+        padding: 10px;
+    }
+
+    li {
+        display: grid;
+        place-content: center;
+        white-space: nowrap;
+        margin: 0px;
+    }
+
+    h3 {
+    }
+
+    ol {
+        justify-content: center
+    }
+</style>

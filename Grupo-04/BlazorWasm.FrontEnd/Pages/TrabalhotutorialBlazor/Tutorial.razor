@@ -1,0 +1,246 @@
+﻿@page "/tutorial"
+<h1>Tutorial CRUD</h1>
+<br />
+
+<TabControl>
+    <TabPage Text="Listar um Objeto">
+        <br />
+        <h3>Listar Objetos (Ex: IndexCategoria) </h3>
+        <p>Para listamos um objeto em uma página precisamos antes executar uma Task, mas antes Vamos Iniciar uma List em nosso projeto Blazor.</p>
+
+        <code class="codigo">
+            List&lt;Categoria>
+            Categorias = new List&lt;Categoria>
+            ();
+        </code>
+
+        <p>Após ter inicializado nossa lista precisamos trazer ela para nosso ambiente para fazer a listagem com o método abaixo.</p>
+
+        <code class="codigo">
+            protected override async Task OnInitializedAsync(){
+            Categorias = await repositorio.Get();
+            }
+        </code>
+
+
+        <p>
+            O “comando” await se torna obrigatório pois não podemos carregar a página sem ele terminar de pegar os dados da lista para exibir.
+            <code class="codigo">repositorio.Get()</code>, ele irá enviar uma requisição para nossa API pegar os dados que estão no repositório que será usado no nosso &#00064;Foreach, para percorrer nossa lista e mostrar na página.
+        </p>
+
+
+    </TabPage>
+
+    <TabPage Text="Deletar Objetos">
+        <h3> Deletar Objetos (Ex: IndexCategoria) </h3>
+        <p>
+            Para deletar um objeto seguimos quase a mesma linha que foi usado para exibir uma lista na página, com uma única diferença, podemos ter mais e um item com o mesmo nome então não podemos utilizar o nome como referência para isso utilizamos um ID que será único para cada objeto então não corremos o risco que apagar algo indesejado
+            Executaremos um método abaixo em nosso componente Blazor para fazer a requisição a Api para que ela execute a exclusão
+        </p><br />
+        <code class="codigo">
+            private async Task DeletarItem(int Id)
+            {
+
+            &nbsp;&nbsp; await repositorio.Delete(Id);
+
+            Categorias = await repositorio.Get();
+            }<br /><br />
+        </code>
+
+        <code class="codigo-linha">repositorio.Delete(Id);</code> <p>
+            Nesta linha ele ira pegar o Id do objeto que gostaríamos de excluir e enviar para api o comando de exclusão, como puderam reparar temos um await pois não poderemos continuar o processo antes de ter a confirmação de exclusão.
+            Após ter feito a exclusão do objeto fazemos uma nova requisição a api de listagem para que mostre novamente a lista sem o objeto excluído
+        </p>
+
+
+    </TabPage>
+
+    <TabPage Text="Cadastrar Objetos">
+        <h3>
+            Cadastrar Objetos (Ex: CadastrarCategoria)
+        </h3>
+        <p>
+            Para o cadastro de um objeto em uma página blazor especificar a criação do formulário
+            Onde OnValidSubmit e o evento quando o usuario clicar no botão de salvar
+        </p>
+
+        <code class="codigo">&lt; Categoria="categoria" OnValidSubmit="Create" /&gt;</code>
+
+
+
+        <p>
+            No cadastro precisamos criar dois métodos diferentes, um avisando que será adicionada um novo objeto com o seguinte comando
+            private Categoria categoria = new Categoria();
+
+            E outro será uma task onde ficara ela irá fazer a requisição para api o comando de adição de um novo objeto
+        </p>
+
+        <code class="codigo">
+            private async Task Create()
+            {
+            await repository.Add(categoria);
+
+            navigationManager.NavigateTo("categoria");
+            }
+        </code>
+
+
+
+        <p>
+            sendo o mesmo princípio do sistema de exclusão de um objeto com um await para esperar adicionar o objeto pelo nome do que foi inserido no input,
+            e mais uma coisa, e necessário volta para a página anterior depois que foi executado, então usamos o comando <code class="codigo">navigationManager.NavigateTo("categoria");</code>
+            para que ela retorne depois que tiver feito o processo
+        </p>
+
+    </TabPage>
+
+    <TabPage Text=" Editar Objetos">
+        <h3>
+            Editar Objetos (Ex: EditarCategoria)
+        </h3>
+
+        <p>
+            A parte de edição de um objeto e um pouco mais complicada pois você não pode editar algo que não tem permiçao certo?
+
+            Para a edição utilizaremos o Id novamente para que não ocorra erros na hora da edição
+
+            Então logo de início precisamos adicionar a permissão para a edição do objeto com o seguinte parâmetro
+        </p>
+
+        <code class="codigo">[Parameter] public int CategoriaId { get; set; }</code>
+
+
+        <p>
+            Esse parâmetro nos fornece permissão total sobre o objeto
+
+            Executaremos primeira a Task onde após clicar no botão de editar ele ira requisitar a informação do objeto que o usuário deseja editar
+        </p>
+
+        <code class="codigo">
+            protected override async Task OnInitializedAsync()
+            {
+            try
+            {
+            categoria = await  repository.Get(CategoriaId);
+            }
+            catch (Exception ex)
+            {
+            Console.WriteLine("Erro X: " + ex.Message);
+            }
+            }
+        </code>
+        <p>
+            Neste método percebemos algumas mudanças em relação os outro onde ele ira fazer uma tentativa para API e se caso ele não conseguir ele ira retornar um erro no console do usuário com a mensagem
+
+            Se tudo tiver dado certo com a primeira Task ele ira seguir para a segunda onde de fato ira editar o objeto criando novamente um método
+        </p>
+
+
+        <code class="codigo">
+            private async Task Edit()
+            {
+            await repository.Update(categoria);
+            navigationManager.NavigateTo("categoria");
+            }
+        </code>
+
+        <p>Onde o comando <code class="codigo-linha">await repository.Update(categoria);</code> ira atualizar de fato o objeto no  repositório com as novas informação e após a edição do objeto o comando navigationManager.NavigateTo("categoria"); ira retorna a página de categorias</p>
+
+
+
+
+    </TabPage>
+
+    <TabPage Text="Formulário">
+        <h3>
+            Formulário (Ex: FormCategoria)
+        </h3>
+
+        <p> Essa e uma das páginas mais simples, pois ela somente irá chamar o que nós criamos na página de cadastro de categoria, ela direciona oque o usuario digitar no campo input</p>
+        <code class="codigo">&lt;InputText class="form-control" &#00064;bind-Value="&#00064;Categoria.Nome" /&gt;</code>
+        <p> Especificando como será salvo o objeto com</p>
+        <code class="codigo-linha"> &#00064;bind-Value=” ”</code>.
+
+        <p>
+            E exibindo o botão de salvar o comando
+            Mas para isso ela também precisa de permissão para escrever os dados então novamente utilizamos o parâmetro
+        </p>
+        <code class="codigo">[Parameter] public Categoria Categoria { get; set; }</code>
+        <p>Mas também precisamos receber a confirmação de que foi executado com sucesso com um ouro parâmetro</p>
+        <code class="codigo">[Parameter] public EventCallback OnValidSubmit { get; set; }</code>
+
+
+    </TabPage>
+
+    <TabPage Text="Injeçao de dependencias">
+        <h3> Injeção de Dependência (Ex: Program.cs)</h3>
+
+        <p>
+            Aqui e onde fica a alma do nosso aplicativo Blazor, principalmente ativar nosso acesso ao banco de dados e adicionar o serviço de Http, que será usado para a comunicação entre nosso banco de dados
+            Para isso criamos um método
+        </p>
+
+
+        <code class="codigo">services.AddScoped&lt;IHttpService, HttpService>();</code>
+
+
+        <p>
+            esse código solicitamos o uso de um serviço Http
+            Mas somente isso ainda não faz tudo sozinho precisamos ativar nosso repositório seja ele em memória que seria um repositório fake ou um repositório real
+            O comando abaixo ativo o repositório real que no caso não estamos usando
+        </p>
+
+
+        <code class="codigo">services.AddTransient&lt;IRepository&lt;Categoria>, CategoriaRepository>();</code>
+
+        <p>O que foi usado em nossas aulas foram um repositório Fake que quando e desligado a depuração se perde, pois ele fica armazenado na memória Ram, na nossa máquina, com o comando</p>
+
+        <code class="codigo">services.AddSingleton&lt;IRepository&lt;Categoria>, RepositoryInMemoryCategoria>();</code>
+
+        <p>
+            A mudança no código e bem pequena, mas faz uma grande diferença
+            Para cada vez que usuário usar um repositório e necessário especificar neste arquivo, pois senão o repositório não será ativado e irá aparecer erros na IDE.
+        </p>
+
+
+
+    </TabPage>
+
+</TabControl>
+
+
+@code {
+
+}
+<style>
+    h1 {
+        color: #111;
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 50px;
+        font-weight: bold;
+        letter-spacing: -1px;
+        line-height: 1;
+        text-align: center;
+    }
+
+    .codigo {
+        margin-top: 15px;
+        @*background-color: gray;*@
+        color: purple;
+        text-shadow: black 0.1em 0.1em 0.3em;
+        font-size:20px;
+
+    }
+
+    .codigo-linha {
+        margin-top: 15px;
+        @*background-color: gray;*@
+        color: purple;
+        text-shadow: black 0.1em 0.1em 0.3em;
+        font-size: 20px;
+    }
+    p{
+        margin:10px;
+
+    }
+</style>

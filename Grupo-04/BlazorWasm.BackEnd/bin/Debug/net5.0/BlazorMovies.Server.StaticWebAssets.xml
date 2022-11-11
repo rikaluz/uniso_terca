@@ -1,0 +1,9 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Workspace\Csharp\BlazorMovies.Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Workspace\Csharp\BlazorMovies.Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Workspace\Csharp\BlazorMovies.Client\wwwroot\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\lucia\.nuget\packages\radzen.blazor\3.0.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="SecondApp" Path="C:\Workspace\Csharp\BlazorMovies\BlazorApp2\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="SecondApp" Path="C:\Workspace\Csharp\BlazorMovies\BlazorApp2\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="SecondApp" Path="C:\Workspace\Csharp\BlazorMovies\BlazorApp2\wwwroot\" />
+</StaticWebAssets>

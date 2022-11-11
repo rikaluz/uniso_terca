@@ -1,0 +1,59 @@
+﻿@page "/CPessoas"
+@inject IRepository<Pessoa> repository
+
+<h3>Index Produto</h3>
+
+<div class="form-group">
+    <a class="btn btn-info" href="CPessoas/cadastro"> Cadastrar Pessoas</a>
+</div>
+
+@if (Pessoas is not null)
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Nome</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Pessoas)
+            {
+                <tr>
+                    <td>
+                        <a class="btn btn-success" href="CPessoas/editar/@item.Id">Editar</a>
+                        <button class="btn btn-danger" @onclick="@(() => DeletarItem(item.Id))">Deletar</button>
+                    </td>
+                    <td>@item.Nome</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <h5>Carregando...</h5>
+    <img src="https://media.giphy.com/media/l0He4fJxPCbfqv7Xi/giphy.gif" />
+}
+
+
+
+
+@code {
+
+    List<Pessoa> Pessoas = new List<Pessoa>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Pessoas = await repository.Get();
+    }
+
+
+
+    private async Task DeletarItem(int Id)
+    {
+        await repository.Delete(Id);
+        Pessoas = await repository.Get();
+    }
+
+}

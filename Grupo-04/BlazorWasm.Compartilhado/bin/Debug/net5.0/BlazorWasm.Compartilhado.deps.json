@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BlazorWasm.Compartilhado/1.0.0": {
+        "runtime": {
+          "BlazorWasm.Compartilhado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorWasm.Compartilhado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

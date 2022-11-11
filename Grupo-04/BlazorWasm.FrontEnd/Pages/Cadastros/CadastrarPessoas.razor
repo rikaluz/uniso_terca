@@ -1,0 +1,28 @@
+﻿@page "/CPessoas/cadastro"
+@inject IRepository<Pessoa> repository
+@inject NavigationManager navigationManager
+
+
+<h3>Cadastrar Pessoas</h3>
+
+
+<FormPessoas Pessoa="pessoa" OnValidSubmit="Create" />
+
+
+
+@code {
+    private Pessoa pessoa = new Pessoa();
+
+    private async Task Create()
+    {
+        try
+        {
+            await repository.Add(pessoa);
+            navigationManager.NavigateTo("Cpessoas");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
