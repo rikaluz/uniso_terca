@@ -1,0 +1,192 @@
+
+
+
+
+body {
+    background-image: url("../Imagem/Fundo\ para\ site\ -\ azul3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y:-70px ;
+    background-size: 1370px 730px;   
+}
+
+.topnav a:hover {
+    border-bottom: 3px solid rgb(17, 192, 231);
+} 
+
+.happyanimall{
+    display: flex;
+    justify-content: center;
+
+}
+div h1 {
+    display: flex;
+    margin-left: 50px;
+    justify-content: center;
+    color: rgba(255, 213, 0, 0.957);
+    text-shadow:-1px 1px 3px #000000;
+    }
+    
+div h2 {
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 213, 0, 0.957);
+    text-shadow:-1px 1px 3px #000000;
+}
+
+#msgOkBox{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 242, 255);
+    height: 80px;
+    width: auto;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-top: -15px;
+    margin-bottom: 10px;
+}
+
+#msgOk{
+    font-size: 25px;
+    font-weight: 600;
+    color: #000000;    
+}
+
+#container-formLogin {
+    display: grid;
+    justify-content: end;
+    align-items: center;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: -50px;
+   
+}
+#container-formCad {
+    display: grid;
+    justify-content: end;
+    align-items: center;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: -50px;
+}
+
+#container-sobre {
+    display: grid;
+    justify-content: end;
+    align-items: center;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: -50px;
+}
+
+#textoSobre {
+    text-shadow:-1px 1px 2px #000000;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+input, .btspace {
+    display:flexbox;
+    margin-bottom: 25px;
+    height: 55px;
+    width: 400px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    font-size: 14pt;
+    padding: 10px 20px;
+    transition: 0.2s;
+}
+.btspace:hover {
+    transform: scale(1.01);
+    box-shadow: 0px 0px 10px 0px rgb(20, 100, 230);
+    padding-block: 1%;
+}
+
+.btEntrar{              
+    height: 40px;
+    width: 200px;
+    font-weight: 500;
+    color:rgb(0, 0, 0);
+    background-color: rgb(234, 178, 10);
+    font-size: 20px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    transition: 0.2s;
+    padding-block: 0%;
+}
+
+.btEntrar:hover {
+    width: 210px;
+    transform: scale(1.01);
+    font-size: 22px ;    
+}
+
+h4{
+    color: #000000;
+}
+
+.btCadastrar{              
+    height: 40px;
+    width: 200px;
+    font-weight: 500;
+    color:rgb(0, 0, 0);
+    background-color: rgb(234, 178, 10);
+    font-size: 20px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    transition: 0.2s;
+    padding-block: 0%;
+}
+
+.btCadastrar:hover {
+    width: 210px;
+    transform: scale(1.01);
+    font-size: 22px ;    
+}
+
+#btCadAqui{
+    background-color: rgb(255, 255, 255);
+    display:flexbox;
+    height: 40px;
+    width: 200px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    color: blue;
+    font-size: 20px;
+    font-weight: 500;
+    transition: 0.2s;
+}
+
+#btCadAqui:hover{
+    background-color: rgb(255, 183, 0);
+    width: 210px;
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+    
+}
+
+.lbAcessCol {
+    text-shadow:-1px 1px 3px #000000;
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+}
+
+.lbCadCol {
+    text-shadow:-1px 1px 3px #000000;
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+}
+
+.lbPrForm {
+    text-shadow:-1px 1px 3px #000000;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
