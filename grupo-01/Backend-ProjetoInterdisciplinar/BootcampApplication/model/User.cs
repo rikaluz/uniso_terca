@@ -1,5 +1,7 @@
 namespace BootcampApplication.model
 {
+
+    //verificar se iremos colocar mais campos de dados do usuario no formulario de inscricao.
     public class User
     {
         public int Id { get; set; }

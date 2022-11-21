@@ -7,6 +7,7 @@ namespace BootcampApplication.model
         public DateTime Initial_date { get; set; }
         public DateTime End_date { get; set; }
         public BootcampStatus Status { get; set; }
+        public string Instructor { get; set; }
     }
 
     public enum BootcampStatus
