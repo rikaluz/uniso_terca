@@ -17,7 +17,7 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-warning">
     <a class="navbar-brand" href="">
-      <img src="imagem/logo happy animall.png" alt="..." height="40">
+      <img class="nav_logo" src="imagem/logo happy animall.png" alt="..." height="40">
     </a>
     <marquee width="800"><h5>Seja Bem-Vindo ao nosso sitema!</h5></marquee>
     
@@ -47,8 +47,8 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Omnivic</a>
                     </div>
-                </li>
-                <li class="nav-item"> -->
+                </li> -->
+                <li class="nav-item">
                     <a class="nav-link" href="#" onclick="MostraSobre();">Sobre</a>
                     
                 </li>
@@ -56,14 +56,14 @@
                     <a class="nav-link" href="#">Contato</a>
                 </li>-->
                 <li class="nav-item" style="padding-right: 4px;">
-                    <a class="nav-link btn btn-primary text-white" type="button" onclick="MostraFormLogin('formularioLogin')">Entrar</a>                  
+                    <a class="nav-link btn_entrar" type="button" onclick="MostraFormLogin('formularioLogin')"><span>Entrar</span></a>                  
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-success text-white" type="button" onclick="MostraFormCad('formularioCad')">Cadastrar</a>
+                <a class="nav-link btn_cadastrar" type="button" onclick="MostraFormCad('formularioCad')">Cadastrar</a>
                 </li>
             </ul>
         </div>
-
+</nav>
             <!-- The Modal -->
     <div class="modal" id="msgCadSucesso">
         <div class="modal-dialog">
@@ -77,7 +77,7 @@
 
                 <!-- Modal body -->
                 <div class="modal-body">
-                    <h6>Usuário cadastrado com sucesso!<h6>
+                    <h6>Usuário cadastrado com sucesso!</h6>
                 </div>
 
                 <!-- Modal footer -->
@@ -88,15 +88,12 @@
             </div>
         </div>
     </div>
-            
-</nav>
-
-
+    
 <br>
-<div class="happyanimall">
-<img src="imagem/logo happy animall.png" alt="..." height="120">
-<h1>Onde seu animalzinho recebe o melhor com mais amor! </h1>
-</div>
+    <div class="happyanimall">
+        <img src="imagem/logo happy animall.png" alt="..." height="120">
+        <h1>Onde seu animalzinho recebe o melhor com mais amor! </h1>
+    </div>
 <br>
 
 <div id="container-formLogin" > 
@@ -104,7 +101,7 @@
 <div id="msgOkBox" style="display:none">
 <p id="msgOk"></p>
 </div>
-
+    <div class="box_login">
     <label class="lbAcessCol">Acesso do Colaborador </label><br>
         <form id="formularioLogin" name = "Login_user" action = "Cad_login_user.php" method = "POST">
             <input class="btspace" type = "text" placeholder = "Usuário " name = "cod_user" size = "10" ></br>
@@ -113,9 +110,11 @@
         </form>
         <h4>Ainda não é cadastrado?<h4>
         <button id="btCadAqui" type="button" onclick="MostraFormCad('formularioCad')">Cadastre-se aqui!</button>
+    </div>
 </div>
 
-<div id="container-formCad" style="display:none" >      
+<div id="container-formCad" style="display:none" >    
+    <div class="box_cadastro">
     <label class="lbCadCol">Cadastro do Colaborador </label><br>
     <label class="lbPrForm">PREENCHA O FORMULÁRIO</label>
         <form id="formulario" name = "Login_user">
@@ -123,10 +122,11 @@
             <input class="btspace" type = "text" placeholder = "Usuário " name = "cod_user" size = "10" ></br>
             <input class="btspace" type = "text" placeholder = "Nome " name = "nome_user" size = "30" ></br>
             <input class="btspace" type = "password" placeholder = "Digite a senha" name = "senha_user" size = "20" ></br>
-            <!-- <input class="btCadastrar" type = "submit" onclick="MensagemCadOk()" name = "enviar" value = "Cadastrar"> -->
-            <input class="btCadastrar" type = "submit" onclick="MensagemCadOkModal()" name = "enviar" value = "Cadastrar" data-toggle="modal" data-target="#msgCadSucesso">
+            <input class="btCadastrar" type = "submit" onclick="MensagemCadOk()" name = "enviar" value = "Cadastrar">
+            <!-- <input class="btCadastrar" type = "submit" onclick="MensagemCadOkModal()" name = "enviar" value = "Cadastrar" data-toggle="modal" data-target="#msgCadSucesso"> -->
         </form>
 </div>
+</div>  
 
 <div id="container-sobre" style="display:none">
     <p id="textoSobre" >Escrever um texto sobre a empresa aqui</p>
