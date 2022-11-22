@@ -1,24 +1,67 @@
-
-
-
+*{
+    margin: 0;
+    padding: 0;
+}
 
 body {
     background-image: url("../Imagem/Fundo\ para\ site\ -\ azul3.png");
-    background-repeat: no-repeat;
     background-position: center;
-    background-position-y:-70px ;
-    background-size: 1370px 730px;   
+    background-position-y:-110px ;
+    background-size: inherit;   
 }
 
-.topnav a:hover {
-    border-bottom: 3px solid rgb(17, 192, 231);
-} 
+li {
+    margin: 0 0.5em;
+}
+
+.btn_cadastrar{
+    text-align: center;
+    width: 8em;
+    height: auto;
+    padding: 1em;
+    border: 1px solid rgb(17, 192, 231);
+    background-color: rgb(17, 192, 231);
+    border-radius: 2em;
+}
+.btn_entrar{
+    text-align: center;
+    width: 8em;
+    height: auto;
+    padding: 1em;
+    border: 1px solid rgb(17, 192, 231);
+    background-color: transparent;
+    border-radius: 2em;
+}
+
+.btn_entrar span {
+    color: rgb(17, 192, 231);
+
+}
 
 .happyanimall{
     display: flex;
     justify-content: center;
 
 }
+
+@media (max-width: 768px){
+    body {
+
+    }
+}
+
+.nav_logo{
+    width: 6em;
+    height: auto;
+    margin: 0 1em;
+}
+
+.topnav a:hover {
+    border-bottom: 3px solid rgb(17, 192, 231);
+} 
+
+
+
 div h1 {
     display: flex;
     margin-left: 50px;
@@ -26,6 +69,11 @@ div h1 {
     color: rgba(255, 213, 0, 0.957);
     text-shadow:-1px 1px 3px #000000;
     }
+@media (max-width: 768px){
+    .happyanimall h1 {
+        font-size: 1.5em;
+    }
+}
     
 div h2 {
     display: flex;
@@ -61,6 +109,29 @@ div h2 {
     margin-top: -50px;
    
 }
+
+@media (max-width:768px){
+    #container-formLogin{
+        margin-right: 0;
+    }
+}
+
+.box_login{
+    border: 2px solid #1298e0;
+    border-radius: 2em;
+    padding: 1em;
+    margin-top: 4em;
+    margin-right: 8em;
+}
+
+.box_cadastro{
+    border: 2px solid #1298e0;
+    border-radius: 2em;
+    padding: 1em;
+    margin-top: 4em;
+    margin-right: 8em;
+}
+
 #container-formCad {
     display: grid;
     justify-content: end;
@@ -152,7 +223,7 @@ h4{
     width: 200px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 20px;
-    color: blue;
+    color:#000;
     font-size: 20px;
     font-weight: 500;
     transition: 0.2s;
@@ -186,7 +257,3 @@ h4{
     color: white;
     font-weight: bold;
 }
-
-
-
-
