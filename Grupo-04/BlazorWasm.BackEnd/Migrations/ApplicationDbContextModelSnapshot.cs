@@ -16,6 +16,29 @@ namespace BlazorWasm.BackEnd.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "5.0.2");
 
+            modelBuilder.Entity("BlazorWasm.Compartilhado.Entidades.Carro", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("AnoModelo")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Cor")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Marca")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Modelo")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Carro");
+                });
+
             modelBuilder.Entity("BlazorWasm.Compartilhado.Entidades.Categoria", b =>
                 {
                     b.Property<int>("Id")

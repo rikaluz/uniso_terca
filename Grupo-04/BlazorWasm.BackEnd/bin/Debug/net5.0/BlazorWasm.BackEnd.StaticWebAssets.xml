@@ -1,5 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="/" Path="C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.FrontEnd\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\danil\OneDrive\Área de Trabalho\Nova pasta\Grupo-04\BlazorWasm.FrontEnd\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\danil\OneDrive\Área de Trabalho\Nova pasta\Grupo-04\BlazorWasm.FrontEnd\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\danil\OneDrive\Área de Trabalho\Nova pasta\Grupo-04\BlazorWasm.FrontEnd\wwwroot\" />
 </StaticWebAssets>

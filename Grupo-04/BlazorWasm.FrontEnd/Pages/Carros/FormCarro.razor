@@ -1,0 +1,40 @@
+﻿<h3>Formulario de Cadastro de carro</h3>
+
+
+
+<EditForm Model="Carro" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label>Marca:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Carro.Marca" />
+            <ValidationMessage For="(() =>Carro.Marca)" />
+        </div>
+        <label>Modelo:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Carro.Modelo" />
+            <ValidationMessage For="(() =>Carro.Modelo)" />
+        </div>
+        <label>Ano do Carro:</label>
+        <div>
+            <InputNumber class="form-control" @bind-Value="@Carro.AnoModelo" />
+            <ValidationMessage For="(() =>Carro.AnoModelo)" />
+        </div>
+        <label>Cor do veiculo:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@Carro.Cor" />
+            <ValidationMessage For="(() =>Carro.Cor)" />
+        </div>
+
+
+
+        <button class="btn btn-success" type="submit">Salvar</button>
+    </div>
+</EditForm>
+
+
+@code {
+    [Parameter] public Carro Carro { get; set; }
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+
+}

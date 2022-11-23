@@ -1,0 +1,62 @@
+﻿@page "/PesquisaCarro"
+@inject IRepository<Carro> repositorio
+
+<h3>Index Carro</h3>
+
+
+
+
+@if(Carro is not null)
+{
+    <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Nome</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var Item in Carro)
+                {
+                    <tr>
+                        <td>
+                      <a class="btn btn-success" href="Carro/Ceditar/@Item.Id">Editar</a>
+                       <button class="btn btn-danger" @onclick="@(() => DeletarItem(Item.Id))">Deletar</button>
+                        </td>
+                        <td>@Item.Marca</td>
+                    </tr>
+                }
+            </tbody>
+    </table>
+}
+else
+{
+       <h5>Carregando...</h5>
+        <img src="https://media.giphy.com/media/l0He4fJxPCbfqv7Xi/giphy.gif" />
+}
+
+
+@code {
+
+    List<Carro> Carro = new List<Carro>();
+
+
+
+    //Metodo Executado quando a Pagina é carregada
+    protected override async Task OnInitializedAsync()
+    {
+        Carro = await repositorio.Get();
+    }
+
+
+
+    private async Task DeletarItem(int Id)
+    {
+        await repositorio.Delete(Id);
+
+        //Solicitando Nova Lista de Categorias para
+        //Atualizar a Tela
+        Carro = await repositorio.Get();
+    }
+
+}

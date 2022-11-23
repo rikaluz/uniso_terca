@@ -28,6 +28,7 @@ namespace BlazorWasmServer.Server
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<Pessoa> Pessoa { get; set; }
+        public DbSet<Carro> Carro { get; set; }
 
 
     }

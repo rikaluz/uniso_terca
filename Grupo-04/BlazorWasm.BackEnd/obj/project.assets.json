@@ -8826,11 +8826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\WasmSampleDotNet5\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
       "projectName": "BlazorWasm.BackEnd",
-      "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\WasmSampleDotNet5\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
+      "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\WasmSampleDotNet5\\BlazorWasm.BackEnd\\obj\\",
+      "outputPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8847,11 +8847,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\WasmSampleDotNet5\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj": {
-              "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\WasmSampleDotNet5\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj"
+            "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj": {
+              "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj"
             },
-            "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\WasmSampleDotNet5\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj": {
-              "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\WasmSampleDotNet5\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj"
+            "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj": {
+              "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj"
             }
           }
         }
@@ -8945,24 +8945,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.17, 5.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -8971,7 +8953,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }

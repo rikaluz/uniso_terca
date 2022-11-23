@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = BlazorWasm.Compartilhado
-build_property.ProjectDir = C:\Users\danil\OneDrive\Área de Trabalho\WasmSampleDotNet5\BlazorWasm.Compartilhado\
+build_property.ProjectDir = C:\Users\danil\OneDrive\Área de Trabalho\Nova pasta\Grupo-04\BlazorWasm.Compartilhado\

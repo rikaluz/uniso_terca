@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dKxO6cPMXotetcvauGg5zb+G3rPzvC/Rrw1YfIZ9Rv0/VIN5sql6lHkPBb7fvyjBehYYWBQh3/89qXzF+i2TNw==",
+  "dgSpecHash": "Qqe0OGwtAruGbnS8+e6AXjJtofV2+0AjjSKIHKNXu0UKxdUEUENJfIhNVc6s3Zfoszl6WbujgivomEs4s0irWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\WasmSampleDotNet5\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danil\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
@@ -180,11 +180,7 @@
     "C:\\Users\\danil\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\danil\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\danil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\danil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\danil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\danil\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\danil\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

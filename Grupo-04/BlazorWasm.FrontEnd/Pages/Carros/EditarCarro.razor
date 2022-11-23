@@ -1,0 +1,40 @@
+﻿@page "/Carro/Ceditar/{CarroId:int}"
+@inject IRepository<Carro> repository
+@inject NavigationManager navigationManager
+
+<h3>Editar Categoria</h3>
+@if (carro is not null)
+{
+    <FormCarro Carro="carro" OnValidSubmit="Edit" />
+}
+
+
+@code {
+    [Parameter] public int CarroId { get; set; }
+    private Carro carro;
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            carro = await  repository.Get(CarroId);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Erro X: " + ex.Message);
+        }
+    }
+
+
+
+    private async Task Edit()
+    {
+        await repository.Update(carro);
+        navigationManager.NavigateTo("carro");
+    }
+
+
+
+}

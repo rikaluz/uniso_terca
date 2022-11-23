@@ -37,6 +37,7 @@ namespace BlazorWasm.Client
             services.AddTransient<IRepository<Categoria>, CategoriaRepository>();
             services.AddTransient<IRepository<Produto>, ProdutoRepository>();
             services.AddTransient<IRepository<Pessoa>, RepositorioPessoa>();
+            services.AddTransient<IRepository<Carro>, RepositorioCarro>();
 
             ////ATIVAR Repositorio em Memoria (Fake)
             //services.AddSingleton<IRepository<Categoria>, RepositoryInMemoryCategoria>();

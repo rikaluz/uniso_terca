@@ -1,0 +1,24 @@
+﻿@page "/Carros/Ccadastro"
+@inject IRepository<Carro> repository
+@inject NavigationManager navigationManager
+
+<h3>Cadastro Carros</h3>
+
+<FormCarro Carro="carro" OnValidSubmit="Create" />
+
+@code {
+    private Carro carro = new Carro();
+
+    private async Task Create()
+    {
+        try
+        {
+            await repository.Add(carro);
+            navigationManager.NavigateTo("Carros");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
