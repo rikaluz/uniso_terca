@@ -1,0 +1,237 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins";
+}
+body {
+    background: linear-gradient( to right, rgb(81, 247, 211),rgb(0, 107, 156));
+    position: relative;
+    height: 100vh;
+
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 500px;
+    min-height: 400px;
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0px 1px 5px 0px rgb(0, 78, 151);
+}
+
+.login-title {
+    color: rgb(0, 121, 151);
+    font-size: 20px;
+    position: relative;
+    top: -7px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 35px;
+}
+
+.id-login, .password-login {
+    position: relative;
+    text-align: center;
+    justify-content: center;
+}
+
+#login {
+    font-size: 15px;
+    position: relative;
+    left: 6%;
+    border: none;
+    margin-bottom: 8px;
+    width: 50%;
+    outline: none;
+    transition: all 0.5s ease;
+    border-radius: 3px;
+    height: 2rem;
+    padding-left: 5px;
+}
+
+#password {
+    font-size: 15px;
+    position: relative;
+    left: 6%;
+    border: none;
+    margin-bottom: 7px;
+    width: 50%;
+    outline: none;
+    transition: all 0.5s ease;
+    border-radius: 3px;
+    height: 2rem;
+    padding-left: 5px;
+}
+
+
+.id-login .underline::before {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 47%;
+    bottom: 2px;
+    right: 26%;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.id-login .underline::after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 47%;
+    bottom: 2px;
+    right: 26%;
+    background: linear-gradient(rgb(0, 204, 255),rgb(60, 139, 158));
+    transform:scaleX(0);
+    transition: all .3s ease-in-out;
+    transform-origin: left;
+}
+
+.id-login input:focus ~ .underline::after {
+    transform: scaleX(1);
+}
+
+.password-login .underline::before {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 47%;
+    bottom: 2px;
+    right: 26%;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.password-login .underline::after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 47%;
+    bottom: 2px;
+    right: 26%;
+    background: linear-gradient(rgb(0, 204, 255),rgb(60, 139, 158));
+    transform:scaleX(0);
+    transition: all .3s ease-in-out;
+    transform-origin: left;
+}
+
+.password-login input:focus ~ .underline::after {
+    transform: scaleX(1);
+}
+
+#icon-id {
+    position: relative;
+    left: 6%;
+    top: 3px;
+    font-size: 22px;
+    color:rgb(63, 63, 63);
+}
+
+#icon-password {
+    position: relative;
+    left: 6%;
+    top: 3px;
+    font-size: 22px;
+    color:rgb(63, 63, 63); 
+}
+
+.button-login {
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#button {
+    width: 120px;
+    height: 40px;
+    border-radius: 3px;
+    color: white;
+    background-image:linear-gradient(to right, rgb(0, 121, 151),rgb(0, 87, 145)); 
+    border: none;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+#button:hover {
+    background-image:linear-gradient(to left, rgb(0, 121, 151),rgb(0, 87, 145)); 
+}
+
+.new-user {
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.new-user p {
+    margin-top: 70px;
+    font-size: 13px;
+    color: rgb(71, 71, 71);
+    
+}
+
+.new-user a {
+    font-weight: bold;
+    font-size: 14px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+    text-decoration: none;
+    color: rgb(60, 139, 158);
+    transition: all 0.5s ease;
+}
+
+.new-user a:hover {
+    color: rgb(0, 204, 255);
+    text-decoration: none;
+}
+
+@media screen and  (max-width: 527px) { 
+    
+    .box {
+        min-width: 300px;
+        min-height: 200px;
+    }
+
+    .login-title {
+        font-size: 15px;
+    }
+    
+    #login {
+        width: 80%;
+    }
+    
+    #password {
+        width: 80%;
+    }
+    
+    
+    .id-login .underline::before {
+        width: 90%;
+        right: 2%;
+    }
+    
+    .id-login .underline::after {
+        width: 90%;
+        right: 2%;
+    }
+    
+    .password-login .underline::before {
+        width: 90%;
+        right: 2%;
+    }
+    
+    .password-login .underline::after {
+        width: 90%;
+        right: 2%;
+    }
+    
+}
