@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient( to right, rgb(81, 247, 211),rgb(0, 107, 156));
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main.container {
+    position: absolute;
+    background: white;
+    min-width: 30vw;
+    max-width: 65vw;
+    min-height: 40vh;
+    padding: 2rem 0.5rem;
+    box-shadow: 7px 7px 18px (0, 0, 0, 0.3);
+    border-radius: 6px;
+}
+
+main h2 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    position: relative;
+    color: rgb(60, 139, 158);
+}
+
+fieldset{
+    text-align: center;
+    align-items: center;
+    position: relative;
+    border: none;
+    flex-wrap: wrap;
+}
+
+fieldset:nth-child(1) {
+    display: flex;
+}
+
+fieldset:nth-child(3){
+    display: flex;
+    padding-top: 1rem;
+}
+
+#registro-id {
+    border: solid rgb(170, 170, 170) 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 18rem;
+    margin-bottom: 21px;
+    outline: none;
+    padding-left: 10px;
+}
+
+#registro-id:focus {
+    background-color: rgb(243, 243, 243);
+    border-color: rgb(60, 139, 158);
+    transition: 0.5s;
+}
+
+#name {
+    border: solid rgb(170, 170, 170) 2px;
+    border-radius: 5px;
+    margin-bottom: -10px;
+    height: 40px;
+    justify-content: right;
+    width: 18rem;
+    padding-left: 10px;
+    position: relative;
+    outline: none;
+}
+
+#name:focus {
+    background-color: rgb(243, 243, 243);
+    border-color: rgb(60, 139, 158);
+    transition: 0.5s;
+}
+
+#email {
+    border: solid rgb(170, 170, 170) 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 18rem;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    outline: none;
+}
+
+#email:focus {
+    background-color: rgb(243, 243, 243);
+    border-color: rgb(60, 139, 158);
+    transition: 0.5s;
+}
+
+#password {
+    border: solid rgb(170, 170, 170) 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 18rem;
+    padding-left: 10px;
+    margin-bottom: 21px;
+    outline: none;
+}
+
+#password:focus {
+    background-color: rgb(243, 243, 243);
+    border-color: rgb(60, 139, 158);
+    transition: 0.5s;
+}
+
+#confirm-password {
+    border: solid rgb(170, 170, 170) 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 18rem;
+    padding-left: 10px;
+    position: relative;
+    outline: none;
+}
+
+#confirm-password:focus {
+    background-color: rgb(243, 243, 243);
+    border-color: rgb(60, 139, 158);
+    transition: 0.5s;
+}
+
+#button-create {
+    position: relative;
+    align-items: center;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    background-image:linear-gradient(to right, rgb(0, 121, 151),rgb(0, 87, 145)); 
+    font-size: 17px;
+    font-weight:bold;
+    height: 35px;
+    width: 150px;
+    color: white;
+    top: 10px;
+    transition: 0.5s ease;
+}
+
+#button-create:hover {
+    background-image:linear-gradient(to left, rgb(0, 121, 151),rgb(0, 87, 145)); 
+}
+
+@media screen and (min-width: 791px){
+
+    fieldset{
+        justify-content: center;
+        align-items: center;
+    }
+
+    #name {
+        bottom: 7px;
+    }
+
+    #confirm-password {
+        bottom: 7px;
+    }
+}
+
+@media screen and (max-width:790px) {
+
+    fieldset .input-field {
+        width: 100%;
+        
+    }
+
+    #registro-id {
+        width: 100%;
+        font-size: 16px;
+        margin-bottom: 14px;
+    }
+
+    #name {
+        width: 100%;
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+
+    #email {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    #password {
+        width: 100%;
+        font-size: 16px;
+        margin-bottom: 14px;
+    }
+
+    #confirm-password {
+        width: 100%;
+        font-size: 16px;
+    }
+    
+}
+@media screen and (max-width:365px){
+    
+    main.container {
+        max-width: 90vw;
+    }
+    #name{
+        font-size: 15px;
+    }
+
+    #email {
+        font-size: 15px;
+    }
+
+    #password {
+        font-size: 15px;
+    }
+
+    #confirm-password {
+        font-size: 15px;
+    }
+    
+}
+    
