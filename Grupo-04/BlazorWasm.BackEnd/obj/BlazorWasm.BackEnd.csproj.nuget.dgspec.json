@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj": {}
+    "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj": {
+    "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
         "projectName": "BlazorWasm.BackEnd",
-        "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
+        "projectPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\obj\\",
+        "outputPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj": {
-                "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj"
+              "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj": {
+                "projectPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj"
               },
-              "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj": {
-                "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj"
+              "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj": {
+                "projectPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj": {
+    "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj",
+        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj",
         "projectName": "BlazorWasm.Compartilhado",
-        "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj",
+        "projectPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\obj\\",
+        "outputPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -192,14 +192,14 @@
         }
       }
     },
-    "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj": {
+    "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj",
+        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj",
         "projectName": "BlazorWasm.FrontEnd",
-        "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj",
+        "projectPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.FrontEnd\\obj\\",
+        "outputPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.FrontEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -216,8 +216,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj": {
-                "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj"
+              "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj": {
+                "projectPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj"
               }
             }
           }

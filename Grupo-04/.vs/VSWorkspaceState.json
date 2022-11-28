@@ -4,8 +4,10 @@
     "\\BlazorWasm.BackEnd",
     "\\BlazorWasm.BackEnd\\Migrations",
     "\\BlazorWasm.Compartilhado",
-    "\\BlazorWasm.FrontEnd"
+    "\\BlazorWasm.FrontEnd",
+    "\\BlazorWasm.FrontEnd\\Pages",
+    "\\BlazorWasm.FrontEnd\\Pages\\Carros"
   ],
-  "SelectedNode": "\\BlazorWasm.BackEnd\\BlazorWasm.sln",
+  "SelectedNode": "\\BlazorWasm.FrontEnd\\Pages\\Carros\\IndexCarro.razor",
   "PreviewInSolutionExplorer": false
 }

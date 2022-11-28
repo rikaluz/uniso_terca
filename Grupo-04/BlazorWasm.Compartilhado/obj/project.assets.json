@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj",
+      "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj",
       "projectName": "BlazorWasm.Compartilhado",
-      "projectPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj",
+      "projectPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\BlazorWasm.Compartilhado.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.Compartilhado\\obj\\",
+      "outputPath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.Compartilhado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",

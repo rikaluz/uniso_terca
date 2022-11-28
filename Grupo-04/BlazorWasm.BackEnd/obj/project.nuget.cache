@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qqe0OGwtAruGbnS8+e6AXjJtofV2+0AjjSKIHKNXu0UKxdUEUENJfIhNVc6s3Zfoszl6WbujgivomEs4s0irWA==",
+  "dgSpecHash": "wn7QvEUEB3B1QvBF2Mi4tKGdeAkvqYKEONmCn2k6MJNm0l4N0eJNn5WkvWvEEhtMxbfX9ihhwe6n9HyZC5M7Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.BackEnd\\BlazorWasm.BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danil\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

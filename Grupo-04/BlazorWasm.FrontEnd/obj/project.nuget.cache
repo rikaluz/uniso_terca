@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NwcvFT7tChHknkAPkn2jZvwGsIL0EIRMdW4+wu+uUfmVgn41clQWnwsL7/5FvvxDO1WiLYYqTFgCbtMm2sDFQQ==",
+  "dgSpecHash": "WDcQ1OOPnS1SHp6ATwztK85hPBRAynAyRizHVXO1EH0B4zQnNaEuTP18soH+2g3wZvp3DzwXiT7h9/qUZd87rQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Área de Trabalho\\Nova pasta\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj",
+  "projectFilePath": "C:\\Users\\danil\\OneDrive\\Documentos\\uniso_terca\\Grupo-04\\BlazorWasm.FrontEnd\\BlazorWasm.FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danil\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\markdig\\0.23.0\\markdig.0.23.0.nupkg.sha512",
