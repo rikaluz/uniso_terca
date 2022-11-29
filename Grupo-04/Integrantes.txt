@@ -1,2 +1,15 @@
 Danilo Alves Barreto
 Alex Felix
+
+
+
+#Justificativa-professor
+Apagar esse texto.
+Cada aluno tem que entrar
+O Aluno deverá inserir a alteração na linha de seu nome com a seguinte descrição: presente + data e hora de modificação
+Exemplo:
+
+- nome - RA >> presente 29/11/2022 09h44
+
+
+#justificativa-alunos:
