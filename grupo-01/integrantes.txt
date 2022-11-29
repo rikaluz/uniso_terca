@@ -14,3 +14,4 @@ Exemplo:
 
 #justificativa-alunos:
 - Isadora Guimarães Chagas - 00095396 - presente 29/11/2022 10h53
+- Rebecca Moreira Martins Machado - 00081566 >> presente 29/11/2022 12h26
