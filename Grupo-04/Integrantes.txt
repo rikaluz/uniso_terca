@@ -13,3 +13,4 @@ Exemplo:
 
 
 #justificativa-alunos:
+- Alex Felix Andre Junior - 00103397 >> presente 29/11/2022 16:10
