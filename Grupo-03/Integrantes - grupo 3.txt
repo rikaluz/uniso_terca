@@ -1,4 +1,4 @@
-Rafael Moreschi-00108467
+Rafael Angelo Moreschi-RA 00108467 >> presente 29/11/2022 19h48
 
 Mateus Augusto Garbo-00098576
 
@@ -14,3 +14,7 @@ Exemplo:
 
 
 #justificativa-alunos:
+Boa noite professor. Conforme tem solicitado, temos entregue todas as mudanças decorrentes de acordo
+com as datas estipuladas no entendimento de ser necessário a entrega do projeto por apenas um integrante do grupo.
+Quanto a "RESPOSTA", eu a fiz conforme solicitado e no tempo devido, mas apenas havia colocado o meu RA e talvez
+por isso não tenha notado, mesmo assim coloquei meu nome e RA com data e hora como pediu.
