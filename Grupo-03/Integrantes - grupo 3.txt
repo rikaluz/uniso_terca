@@ -1,3 +1,16 @@
 Rafael Moreschi-00108467
 
 Mateus Augusto Garbo-00098576
+
+
+
+#Justificativa-professor
+Identifciado somente 1 aluno que subiu tudo
+não identificado resposta do rafael indivivual
+O Aluno deverá inserir a alteração na linha de seu nome com a seguinte descrição: presente + data e hora de modificação
+Exemplo:
+
+- nome - RA >> presente 29/11/2022 09h44
+
+
+#justificativa-alunos:
