@@ -13,3 +13,4 @@ Exemplo:
 
 
 #justificativa-alunos:
+- Isadora Guimarães Chagas - 00095396 - presente 29/11/2022 10h53
