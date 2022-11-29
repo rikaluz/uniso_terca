@@ -3,5 +3,13 @@ Gabriel Mascarenhas de Souza - 00101349
 Isadora Guimaraes Chagas - 00095396
 Mateus dos Santos Andreoti - 00107683
 Rebecca Moreira Martins Machado - 00081566
+
+#Justificativa-professor
 Não identificado a resposta do matheus na pergunta indivual.
-Justifique
+O Aluno deverá inserir a alteração na linha de seu nome com a seguinte descrição: presente + data e hora de modificação
+Exemplo:
+
+- Caique Alfredo Rosa - 00106911 >> presente 29/11/2022 09h44
+
+
+#justificativa-alunos:
