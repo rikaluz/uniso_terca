@@ -2,3 +2,13 @@ José Augusto
 Maurício
 Murilo
 Pedro
+
+#Justificativa-professor
+Não identificado a resposta do Mauricio e Pedro pergunta indivual.
+O Aluno deverá inserir a alteração na linha de seu nome com a seguinte descrição: presente + data e hora de modificação
+Exemplo:
+
+- nome - RA >> presente 29/11/2022 09h44
+
+
+#justificativa-alunos:
