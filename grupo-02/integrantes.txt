@@ -12,3 +12,4 @@ Exemplo:
 
 
 #justificativa-alunos:
+Eu José Augusto estou escrevendo pois o aluno Pedro Zerbini não recebeu sua aprovação para fazer alterações no git, ele tentou o contato via whatsApp porém não obteve nenhuma resposta, ele tentou fazer o arquivo html e também colocar a presença ontem, porém como não tem permissão não conseguiu fazer nenhum dos dois, gostaria de saber como ficara a situação do aluno visando que ele tentou fazer as atividades porém não teve a permissão para fazer elas
