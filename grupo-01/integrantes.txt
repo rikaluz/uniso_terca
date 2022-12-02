@@ -5,7 +5,7 @@ Mateus dos Santos Andreoti - 00107683
 Rebecca Moreira Martins Machado - 00081566
 
 #Justificativa-professor
-Não identificado a resposta do matheus na pergunta indivual.
+Não identificado a resposta do Mateus na pergunta indivual.
 O Aluno deverá inserir a alteração na linha de seu nome com a seguinte descrição: presente + data e hora de modificação
 Exemplo:
 
@@ -15,3 +15,4 @@ Exemplo:
 #justificativa-alunos:
 - Isadora Guimarães Chagas - 00095396 - presente 29/11/2022 10h53
 - Rebecca Moreira Martins Machado - 00081566 >> presente 29/11/2022 12h26
+- Mateus dos Santos Andreoti - 00107683 >> presente 01/12/2022 22h35
