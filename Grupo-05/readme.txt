@@ -1,0 +1,1 @@
+Commitei um projeto de uma pokédex que eu tenho aqui, utilizando alguns conceitos básicos.
